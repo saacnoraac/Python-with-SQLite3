@@ -5,9 +5,6 @@ sencilla Base de Datos (SQLite3). La aplicación registra Usuarios pero es posib
 cambiarle su propósito siempre cuando los cambios sea relativamente pequenio.
 
 
-
-
-
 Requerimiento:
 --------------
 1. Python 3.7.3
@@ -18,9 +15,6 @@ integrado en el interprete de Python 3.7.3 y parece que también
 en Python versión 3.6.
 
 
-
-
-
 Más referencia:
 ---------------
 https://www.youtube.com/watch?v=E0OqddzjFUY&list=PLU8oAlHdN5BlvPxziopYZRd55pdqFwkeS&index=59
@@ -28,9 +22,6 @@ https://www.youtube.com/watch?v=E0OqddzjFUY&list=PLU8oAlHdN5BlvPxziopYZRd55pdqFw
 ..
 .
 https://www.youtube.com/watch?v=nj-alxd7YvM&list=PLU8oAlHdN5BlvPxziopYZRd55pdqFwkeS&index=65
-
-
-
 
 
 
